@@ -1,0 +1,90 @@
+body{
+	background-color:lightblue;
+}
+
+ul.navbar {
+	list-style-type: none;
+}
+
+
+.head{
+	text-align: center;
+	position:fixed;
+	background-color:grey;
+	width: 100%;
+	border-bottom: 2px solid black;
+	z-index: +2;
+}
+
+
+#Princ{
+	padding: 4px;
+	text-align: center;
+	z-index:-1;
+}
+
+
+.about{
+	text-align: center;
+}
+
+#Philo{
+	text-align: center;
+}
+
+#Sum{
+	text-align: center;
+}
+
+#por{
+	margin-left:auto; 
+    margin-right:auto;
+}
+th{
+	padding:5px;
+}
+
+td{
+	padding:10px;
+	
+}
+#con{
+	margin-left:auto; 
+    margin-right:auto;
+	
+}
+
+#con tr{
+	margin-left:auto; 
+    margin-right:auto;
+	border-bottom: 1px solid black;
+}
+
+#por tr,#por td,#por th{
+	margin-left:auto; 
+    margin-right:auto;
+	border: 1px solid black;
+}
+
+
+.foot{
+	font-size: small;
+	width: 100%;
+	background-color:grey;
+	color:white;
+	
+}
+
+.space{
+	
+	padding:80px;
+	
+}
+
+.Wport{
+	padding:30px;
+}
+
+.Vport{
+	padding:30px;
+}
